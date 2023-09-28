@@ -36,4 +36,4 @@ Angel con trompeta
 Al dar una orden especifica el ángel actuara de acuerdo a la orden dada.
 ![Arquitectura](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/f82373c7-8a0f-415c-931a-140c617b53e3.jpg)
 ## Base de datos
-![Base de datos]([https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM%20(1).jpeg](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
+![Base de datos](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
