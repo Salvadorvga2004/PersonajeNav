@@ -8,6 +8,15 @@ Angel con trompeta
 | - | - | - | - | 
 |ESP32|Microcontrolador con comuncicación serial, wifi, bluetooth|1|$140.00|
 |Cables Dupont|Cables MM HH MH para conexión de prototipos|50|$60.00|
+|Servo|Motor que permite generar movimiento|1|$60.00|
+|Alambron|Alambre que dara soporte al angel|1 m|$10.00|
+|Tela|Tela de comor blanco para vestimenta|50 cm|$20.00|
+|Muñeco|Extremidades para el angel|1|$60.00|
+|Rollo de hilo blanco|Hilo para bordar extremidades y ropa|1|$10.00|
+|Altavoz|Reproducira el sonido|1|$150.00|
+|Foco LED|Reproducira el sonido|1|$150.00|
+
+
 
 ## Software utilizado
 |Nombre de software|Versión|Tipo|
