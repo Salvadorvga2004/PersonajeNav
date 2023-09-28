@@ -14,24 +14,26 @@ Angel con trompeta
 |Muñeco|Extremidades para el angel|1|$60.00|
 |Rollo de hilo blanco|Hilo para bordar extremidades y ropa|1|$10.00|
 |Altavoz|Reproducira el sonido|1|$150.00|
-|Foco LED|Reproducira el sonido|1|$150.00|
-
-
+|Foco LED|Ilumia al angel|1|$15.00|
+|Bolsa de algodon|Rellenar alas|1|$5.00|
+|Papel dorado|Material para trompeta y aoreola|1|$3.00|
 
 ## Software utilizado
 |Nombre de software|Versión|Tipo|
 |-|-|-|
 |Thonny|4.1.2|Software libre|
-|SQLite|3|Software Libre|
+|Visual Studio Code (Alternativa)|1.82|Software libre|
+|MySQL|8.0|Software Libre|
 
 ## Dibujo del prototipo a desarrollar
 -Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 
 ## Comunicación
--Describir el protocolo de comunicación que tendrá el dispositivo (Como interactua el usuario con el prototipo)
+-Lo que tenemos pensado para la interacción del muñeco es una comunicación por WI-FI ya que es más accesible en el entorno donde se llevara a cabo la presentación además de que es más estable.
 
 ## Arquitectura
--Colocar una imagen donde coloques los sensores, los actuadores, microcontrolador, base de datos (sqlite o mysql)
+-El angel contrara principalmente con la placa ESP32 la cual sera la que de ordenes a nuestros actuadores, los actuadores que utilizaeemos son los siguientes: foco led, servo y altavoz.
+Al dar una orden especifica el angel actuara deacuerdo a la orden dada.
 
 ## Base de datos
 -Colocar la imagen del modelo relacional a utilizar.
