@@ -32,8 +32,8 @@ Angel con trompeta
 -Lo que tenemos pensado para la interacción del muñeco es una comunicación por WI-FI ya que es más accesible en el entorno donde se llevara a cabo la presentación además de que es más estable.
 
 ## Arquitectura
--El angel contrara principalmente con la placa ESP32 la cual sera la que de ordenes a nuestros actuadores, los actuadores que utilizaeemos son los siguientes: foco led, servo y altavoz.
-Al dar una orden especifica el angel actuara deacuerdo a la orden dada.
+-El ángel contará principalmente con la placa ESP32 la cual será la que, de órdenes a nuestros actuadores, los actuadores que utilizaremos son los siguientes: foco led, servo y altavoz.
+Al dar una orden especifica el ángel actuara de acuerdo a la orden dada.
 ![Arquitectura](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/f82373c7-8a0f-415c-931a-140c617b53e3.jpg)
 ## Base de datos
 ![Base de datos]([https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM%20(1).jpeg](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
