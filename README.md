@@ -51,3 +51,8 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Base de datos
 ![Base de datos](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
+
+## Arquitectura
+-Integrantes:
+Hernandez Negrete Alejandro
+Vega Cervantes Salvador
