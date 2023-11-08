@@ -42,7 +42,7 @@ todo esto controlado por medio de la ESP32 mediante WI-FI
 -Servo
 -Buzzer
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
-![Arquitectura de angel](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM.jpeg)
+![Arquitectura de angel](47e7dda0-3bce-4bc5-9ec4-66513fb92191.jpg)
 
 ## Base de datos
 ![Base de datos](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
