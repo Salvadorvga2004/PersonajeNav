@@ -44,5 +44,10 @@ todo esto controlado por medio de la ESP32 mediante WI-FI
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 ![Arquitectura de angel](47e7dda0-3bce-4bc5-9ec4-66513fb92191.jpg)
 
+## Prototipo desarrollado en Wokwi
+![Diseño ](8d68662b-2d1c-4c80-abc3-dee364053374.jpg)
+![Codigo ](f95ca883-412b-45fc-8610-93873b9da22d.jpg)
+
+
 ## Base de datos
 ![Base de datos](https://github.com/Salvadorvga2004/PersonajeNav/blob/main/760b9398-7e83-4650-b482-a914ffa7acee.jpg)
