@@ -29,7 +29,7 @@ Angel con trompeta
 |MySQL|8.0|Software libre|
 
 ## Dibujo del prototipo a desarrollar
-![Prototipo ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM%20(1).jpeg)
+![Prototipo ](38fa7f5d-7789-46b3-94ad-aad41c75caac.jpg)
 
 
 ## Comunicación
