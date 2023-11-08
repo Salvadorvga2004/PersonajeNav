@@ -54,5 +54,5 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Arquitectura
 -Integrantes:
-Hernandez Negrete Alejandro
+Hernandez Negrete Alejandro,
 Vega Cervantes Salvador
