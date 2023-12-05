@@ -91,6 +91,6 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 https://drive.google.com/file/d/1DVJuaulmAGHang0ZGywJw9jvOo1pBvDz/view?usp=sharing
 
 ## Equipo
--Integrantes:
-Hernandez Negrete Alejandro,
-Vega Cervantes Salvador
+Integrantes:                                   
+-Hernandez Negrete Alejandro                                                                    
+-Vega Cervantes Salvador
