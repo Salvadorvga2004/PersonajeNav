@@ -25,7 +25,7 @@ Angel con trompeta
 |-|-|-|
 |Thonny|4.1.2|Software libre|
 |Arduino|2.2.1|Software libre|
-|Arduino Bluetooth controller|1.3|Software libre|
+|Arduino Bluetooth Controller|1.3|Software libre|
 
 
 
