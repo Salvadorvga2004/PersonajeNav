@@ -87,10 +87,13 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 ![Imagen 2 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel2.png)
 ![Imagen 4 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel4.png)
 
+## Código del proyecto
+https://drive.google.com/drive/folders/1BZWcHmXvKhYjEpQqXudUgEzhceltDo49?usp=sharing
+
 ## Video de proyecto terminado
 https://drive.google.com/file/d/1DVJuaulmAGHang0ZGywJw9jvOo1pBvDz/view?usp=sharing
 
 ## Equipo
-Integrantes:                                   
--Hernandez Negrete Alejandro                                                                    
+-Hernández Negrete Alejandro
 -Vega Cervantes Salvador
+
