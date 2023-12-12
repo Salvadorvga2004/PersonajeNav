@@ -94,6 +94,6 @@ https://drive.google.com/drive/folders/1BZWcHmXvKhYjEpQqXudUgEzhceltDo49?usp=sha
 https://drive.google.com/file/d/1DVJuaulmAGHang0ZGywJw9jvOo1pBvDz/view?usp=sharing
 
 ## Equipo
--Hernández Negrete Alejandro
+-Hernández Negrete Alejandro                                                                   
 -Vega Cervantes Salvador
 
