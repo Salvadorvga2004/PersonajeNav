@@ -36,7 +36,7 @@ Angel con trompeta
 ## Comunicación
 -Utilizaremos una placa ESP32 la cual mantendra comunicación Bluetooth con la Aplicación Arduino Bluetooth Controller descargada en nuestro dispositivo móvil, desde ella podremos controlar el movimiento de las alas de nuestro angel y el led que funciona como corona.
 
-## Instrucciones de conecividad
+## Instrucciones de conectividad
 -Paso 1: Instalar la aplicación Arduino Bluetooth Controller en la PlayStore.                            
 -Paso 2: Vincular el Bluetooth nombrado "angelo" en tu dispositivo.                                      
 -Paso 3: Ingresa a la aplicación.                                     
