@@ -42,13 +42,13 @@ Angel con trompeta
 -Paso 3: Ingresa a la aplicación.                                     
 -Paso 4: Dentro de la app busca el Bluetooth "angelo" y le das click.                                    
 -Paso 5: Al dar click muestra un menu y se busca la opcion terminal.                                   
--Paso 6: Sigue las siguientes indicaciones:                                     
+-Paso 6: Sigue las siguientes indicaciones:                                                                       
     Si escribes "1":
-      Se enciende led
+      Se enciende led                                  
     Si escribes "2":
-      Se mueven alas
+      Se mueven alas                            
     Si escribes "3":
-      Se prende led y se mueven alas
+      Se prende led y se mueven alas                          
     Si escribes "0":
       Se apaga led y alas
 
